@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "learn.navigation.course.tabs.label": "Navegación de pestañas del curso",
   "learn.redirect.interstitial.message": "Redirigiendo...",
   "learn.loading.error": "Error al cargar",
