@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "admin.portal.lpr.enrollments.table.not.passed.text.status": "No ha aprobado",
   "admin.portal.lpr.progress.status.in.progress": "En proceso",
   "admin.portal.lpr.progress.status.passed": "Aprobado",

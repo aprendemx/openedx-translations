@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "account.settings.message.duplicate.tpa.provider": "La cuenta de {provider} seleccionada ya está vinculada con otra cuenta de {siteName}. ",
   "account.settings.message.managed.settings": "Los ajustes en el perfil son administrados por {managerTitle}. Contacte su administrador o {support} para obtener ayuda.",
   "account.settings.message.managed.settings.support": "soporte",

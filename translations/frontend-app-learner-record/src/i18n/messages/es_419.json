@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "certificate.program.card.name": "Certificado del programa",
   "certificate.course.card.name": "Certificado del curso",
   "certificate.card.organization.label": "Desde",

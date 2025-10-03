@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "dropzone.Dropzone.invalidSizeLessError": {
     "developer_comment": "Un mensaje que se muestra cuando se carga en Dropzone un archivo con un tamaño inferior al mínimo permitido.",
     "string": "El archivo debe ser mayor que {size} ."

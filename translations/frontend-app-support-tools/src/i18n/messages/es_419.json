@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "supportTools.mainTab.description": "Conjunto de herramientas utilizadas por el equipo de soporte para ayudar a clasificar y resolver problemas seleccionados de los estudiantes.",
   "pageTitle": "Herramientas de soporte | {siteName}",
   "course.reset.alert.warning": "¿Está seguro? Esto borrará todos los datos de este alumno para este curso. Esto solo puede suceder una vez por alumno por curso.",
