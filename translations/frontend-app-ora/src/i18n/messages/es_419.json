@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "frontend-app-ora.error404Message": "Página no encontrada",
   "frontend-app-ora.StatusAlerts.ERR_INVALID_STATE_FOR_ASSESSMENT": "Este paso no está disponible. No se puede recuperar la evaluación.",
   "frontend-app-ora.StatusAlerts.unknownError": "Un error desconocido ocurrió. Inténtalo de nuevo.",

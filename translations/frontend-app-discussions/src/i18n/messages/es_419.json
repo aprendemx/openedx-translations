@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "discussions.actions.button.alt": "Menú de acciones",
   "discussions.actions.copylink": "Copiar link",
   "discussions.actions.edit": "Editar",

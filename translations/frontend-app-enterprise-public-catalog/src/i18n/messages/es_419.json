@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "catalogPage.askXpert.title": "experto",
   "catalogPage.askXpert.description": "Utilice IA para limitar su búsqueda.",
   "catalogPage.askXpert.loadingMessage": "¡Xpert está pensando! Espera con nosotros mientras generamos un catálogo para <b>“ {query} ”...</b>",

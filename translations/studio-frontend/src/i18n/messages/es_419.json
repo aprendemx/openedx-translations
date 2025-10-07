@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "a11yBodyPolicyLink": "Políticas de Accesibilidad del Sitio Web",
   "a11yBodyPageHeader": "Proceso de Accesibilidad Individualizada para Creadores de Cursos",
   "a11yBodyIntroGraph": "En edX, procuramos entender y respetar las necesidades y perspectivas únicas de la comunidad Global de edX. Valoramos cada equipo de curso y estamos comprometidos a expandir el acceso a todos, incluyendo creadores de curso y miembros del equipo del curso con alguna discapacidad. Para tal fin, Hemos adoptado la {communityAccessibilityElement} junto con este proceso para permitir a creadores de curso y miembros del equipo del curso solicitar asistencia si tienen dificultades debido a sus discapacidades para desarrollar y publicar contenido en nuestra plataforma vía Studio.",

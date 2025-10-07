@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "profile.page.title": "Perfil | {siteName}",
   "profile.age.cannotShare": "Su perfil no se puede compartir.",
   "profile.age.details": "Para compartir el perfil con otros {siteName} estudiantes, debe confirmar que es mayor de 13 años.",

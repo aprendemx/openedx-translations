@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "bulk.email.send.email.header": "Enviar un correo electrónico",
   "bulk.email.back.to.instructorDashboard": "Volver al panel del instructor",
   "bulk.email.form.schedule.date": "Fecha de envio",
