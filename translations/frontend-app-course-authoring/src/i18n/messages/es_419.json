@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "authoring.alert.error.connection": "Hemos detectado un error técnico al cargar esta página. Esto puede ser un problema temporal, así que por favor intente nuevamente en unos minutos. Si el problema persiste, por favor solicite ayuda en el siguiente enlace {supportLink} ",
   "authoring.alert.support.text": "Página de soporte",
   "course-authoring.accessibility.page.title": "Política de accesibilidad a Studio {siteName}",

@@ -1,7 +1,9 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "header.links.courses": "Cursos",
   "header.links.programs": "Programas",
-  "header.links.content.search": "Encontrar nuevo",
   "header.links.schools": "Escuelas y Socios",
   "header.user.menu.dashboard": "Panel de Control",
   "header.user.menu.profile": "Perfil",

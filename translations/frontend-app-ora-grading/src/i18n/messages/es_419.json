@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "ora-grading.demoAlert.warningMessage": "El envío de calificaciones está deshabilitado en el modo Demostración del nuevo ORA Staff Grader.",
   "ora-grading.demoAlert.confirm": "Confirmar",
   "ora-grading.demoAlert.title": "Envío de demostración impedido",

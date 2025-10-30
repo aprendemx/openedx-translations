@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "search.facetFilters.clearAll.button": "limpiar todo",
   "search.facetFilters.removeFilter.button": "Retire el filtro {filterTitle}",
   "search.facetFilters.showAll.button": "Mostrar todos los filtros {activeRefinementsCount}",

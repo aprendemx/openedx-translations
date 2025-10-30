@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "learner-dash.loadingSR": "Cargando...",
   "learner-dash.error-page-message": "Si experimenta fallas repetidas, envíe un correo electrónico a soporte técnico a {supportEmail}",
   "learner-dash.title": "Inicio del alumno",

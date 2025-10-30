@@ -1,4 +1,7 @@
 {
+  "header.menu.mycourses.label": "Mis Cursos",
+  "header.menu.discover.label": "Descubrir",
+  "header.links.content.search": "Descubrir Nuevo",
   "exam.hiddenContent": "Este exámen está oculto para el estudiante.",
   "exam.apiError.supportText.withLink": "Si el problema persiste, comuníquese con {supportLink} para obtener ayuda y regrese al examen una vez que reciba más instrucciones.",
   "exam.apiError.default": "Se ha producido un error del sistema con su examen.",
