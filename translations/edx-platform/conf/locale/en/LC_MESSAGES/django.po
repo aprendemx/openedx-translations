@@ -3705,8 +3705,8 @@ msgstr ""
 #, python-brace-format
 msgid "({number} Question)"
 msgid_plural "({number} Questions)"
-msgstr[0]  "({number} pregunta )"
-msgstr[1] "( {number}  preguntas)"
+msgstr[0] ""
+msgstr[1] ""
 
 #: lms/djangoapps/course_home_api/outline/views.py:293
 #, python-brace-format
