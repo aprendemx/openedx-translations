@@ -221,3 +221,6 @@
   "discussions.posts.sort.voteCount": "La mayoría me gusta",
   "discussions.posts.sort-filter.sortFilterStatus": "{propio, Seleccionar , falso {Todos} cierto {Propio} otro {{propio}} } {status, Seleccionar , statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnan respondió {sin respuesta} estado sin respuesta {sin respuesta} otro { {status}} } {type, Seleccionar , discusión { discusiones } pregunta {preguntas} todas las {publicaciones} other {{type}} } {cohortType, Seleccionar , all {} grupo { en { dividir en cohortes }} otro {{cohortType}} } ordenado por {ordenar, Seleccionar , lastActivityAt {actividad reciente} commentCount {más actividad} voteCount {más me gusta} otros {{sort}} }"
 }
+
+
+
