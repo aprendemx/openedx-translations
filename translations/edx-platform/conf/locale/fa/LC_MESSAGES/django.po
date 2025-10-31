@@ -3,32 +3,32 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2025 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2025 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-# 
+#
 # Translators:
 # Omar Al-Ithawi <i@omardo.com>, 2024
 # Fateme Khodayari, 2024
 # Somaye Julaie <joolaee@iingroups.com>, 2024
 # HeliaEnayati, 2024
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -3779,8 +3779,8 @@ msgstr "غیرفعال‌شده"
 
 #: lms/djangoapps/course_home_api/outline/serializers.py:33
 #, python-brace-format
-msgid "({number} Question)"
-msgid_plural "({number} Questions)"
+msgid "({number} pregunta)"
+msgid_plural "({number} preguntas)"
 msgstr[0] "(سوال {number} )"
 msgstr[1] "( سوالات {number} )"
 
