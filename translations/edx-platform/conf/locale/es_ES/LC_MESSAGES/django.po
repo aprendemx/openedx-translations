@@ -26081,3 +26081,9 @@ msgid "({number} Question)"
 msgid_plural "({number} Questions)"
 msgstr[0]  "({number} pregunta )"
 msgstr[1] "( {number}  preguntas)"
+
+
+msgid "You have used {num_used} of {num_total} attempt"
+msgid_plural "You have used {num_used} of {num_total} attempts"
+msgstr[0] "Has utilizado  {num_used} of {num_total} intento"
+msgstr[1] "Has utilizado  {num_used} of {num_total} intentos"
