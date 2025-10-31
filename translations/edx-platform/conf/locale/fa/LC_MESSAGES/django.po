@@ -3779,8 +3779,8 @@ msgstr "غیرفعال‌شده"
 
 #: lms/djangoapps/course_home_api/outline/serializers.py:33
 #, python-brace-format
-msgid "({number} pregunta)"
-msgid_plural "({number} preguntas)"
+msgid "({number} Question)"
+msgid_plural "({number} Questions)"
 msgstr[0] "(سوال {number} )"
 msgstr[1] "( سوالات {number} )"
 
